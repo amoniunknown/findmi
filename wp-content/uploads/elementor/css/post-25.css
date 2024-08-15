@@ -3,6 +3,6 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('/wp-content/uploads/2024/07/Sulphur_Point.ttf') format('truetype');
+	src: url('./../../2024/07/Sulphur_Point.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
